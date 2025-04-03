@@ -9,7 +9,9 @@ Nipuna Sudaraka
 
 
 ## Contribution Snake 
-![snake gif](https://github.com/nipunasudaraka/nipunasudaraka/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/nipunasudaraka/nipunasudaraka/blob/output/github-snake-dark.svg)
+
+
 
 ---
 
